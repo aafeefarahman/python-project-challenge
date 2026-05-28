@@ -121,6 +121,7 @@ for i in email:
 ## Valid
 
 afeefa@gmail.com
+
 python_dev@yahoo.in
 
 ---
@@ -128,7 +129,9 @@ python_dev@yahoo.in
 ## Invalid
 
 1afeefa@gmail.com
+
 afeefa@@gmail.com
+
 afeefa @gmail.com
 
 # Learning Outcome
