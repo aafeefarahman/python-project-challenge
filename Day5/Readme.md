@@ -30,7 +30,7 @@ This project automates the process by:
 ## Project Structure
 
 ```text
-├── main.py
+├── multipleemail.py
 ├── README.md
 ```
 
