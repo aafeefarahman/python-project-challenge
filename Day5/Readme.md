@@ -4,7 +4,7 @@ A simple Python automation script that sends personalized emails to multiple org
 
 ## Why I Built This
 
-While working on sponsorship outreach for a hackathon at IIIT Hyderabad, I needed a way to send the same sponsorship proposal to multiple companies without manually composing and sending each email one by one.
+While working on sponsorship outreach for a hackathon at IIIT Hyderabad and BITS Pilani, I needed a way to send the same sponsorship proposal to multiple companies without manually composing and sending each email one by one without using mail merge so i thought why not experiment with python code.
 
 This project automates the process by:
 
@@ -30,7 +30,6 @@ This project automates the process by:
 ## Project Structure
 
 ```text
-│
 ├── main.py
 ├── README.md
 ```
@@ -143,7 +142,6 @@ All emails sent successfully!
 ```
 
 ## Use Cases
-
 - Sponsorship outreach
 - Event promotion
 - Community engagement
