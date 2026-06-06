@@ -6,7 +6,7 @@ As someone who has already explored AI/ML and worked on advanced tech projects u
 
 This challenge is all about building one Python project every day — not just to practice coding, but to improve creativity, logical thinking, debugging skills, and confidence while building independently.
 
-Sometimes revisiting the basics in a practical way is one of the best ways to grow as a developer 🚀
+Sometimes revisiting the basics in a practical way is one of the best ways to grow as a developer!
 
 ---
 
