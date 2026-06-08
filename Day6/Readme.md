@@ -4,7 +4,7 @@
 
 SnapShot Pro is a desktop screenshot utility developed entirely in Python. The application provides a simple and efficient way to capture screenshots with customizable filenames, configurable delays, automatic file organization, and screenshot history tracking.
 
-The project was built to explore desktop automation, graphical user interface development, file management, and event-driven programming while creating a practical tool that can be used in everyday workflows.
+The project was built to explore desktop automation, graphical user interface development, file management, and event-driven programming while creating a practical tool that can be used in everyday workflows!
 
 ---
 
