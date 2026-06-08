@@ -15,7 +15,6 @@ The project was built to explore desktop automation, graphical user interface de
 - Configurable capture delay
 - Automatic date-wise screenshot organization
 - Screenshot history tracking
-- Desktop notifications
 - Modern dark-themed user interface
 - Quick access to saved screenshots
 
